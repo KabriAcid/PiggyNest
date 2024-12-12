@@ -5,9 +5,14 @@
   --dim-gray: #70716dff;
   --mint-green: #cdeddfff;
   --ash-gray: #b0d4c2ff;
+
+  --body: #F9FAFE;
 }
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+body {
+  background-color: var(--body);
 }
