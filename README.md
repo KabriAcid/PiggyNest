@@ -23,5 +23,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/PiggyNest.git
+git clone https://github.com/KabriAcid/PiggyNest.git
 cd PiggyNest
