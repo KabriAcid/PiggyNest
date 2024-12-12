@@ -1,0 +1,13 @@
+:root {
+  /* CSS HEX */
+  --melon: #f8b1abff;
+  --gunmetal: #223533ff;
+  --dim-gray: #70716dff;
+  --mint-green: #cdeddfff;
+  --ash-gray: #b0d4c2ff;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}

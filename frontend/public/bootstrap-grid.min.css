@@ -195,6 +195,11 @@
   margin-right: auto;
   margin-left: auto;
 }
+.container-fluid {
+  padding: 0;
+  margin: 0;
+
+}
 @media (min-width: 576px) {
   .container,
   .container-sm {
